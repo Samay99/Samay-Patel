@@ -1,2 +1,2 @@
-# Samay-Patel
+# samay-patel
 My first repository on GitHub
